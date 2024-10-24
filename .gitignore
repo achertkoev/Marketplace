@@ -1,0 +1,6 @@
+*.dll
+*.pbd
+/obj
+src/*/obj/*
+src/*/bin/*
+
